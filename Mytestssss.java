@@ -6,6 +6,7 @@ public class Mytestssss implements Comparable {
 	}
 	public static void main(String[]args){
 		System.out.println(2);
+		System.out.println(69);
 	}
 }
 
